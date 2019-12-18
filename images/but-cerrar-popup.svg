@@ -1,0 +1,25 @@
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="34.518px" height="34.517px" viewBox="0 0 34.518 34.517" enable-background="new 0 0 34.518 34.517"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<radialGradient id="SVGID_1_" cx="17.3074" cy="17.2112" r="6.3903" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#8CBB69"/>
+		<stop  offset="0.7837" style="stop-color:#6BAD44"/>
+	</radialGradient>
+	<path fill="url(#SVGID_1_)" d="M22.975,11.544c0.965,0.963,0.965,2.525,0,3.488l-2.182,2.179l2.182,2.18
+		c0.965,0.963,0.965,2.524,0,3.488c-0.965,0.963-2.525,0.963-3.49,0l-2.178-2.181l-2.18,2.181c-0.963,0.963-2.521,0.963-3.488,0
+		c-0.963-0.964-0.963-2.525,0-3.488l2.18-2.179l-2.18-2.18c-0.963-0.963-0.963-2.525,0-3.488c0.967-0.963,2.525-0.963,3.488,0
+		l2.18,2.18l2.178-2.18C20.449,10.581,22.01,10.581,22.975,11.544z"/>
+	<radialGradient id="SVGID_2_" cx="17.259" cy="17.2584" r="17.2587" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#8CBB69"/>
+		<stop  offset="0.7837" style="stop-color:#6BAD44"/>
+	</radialGradient>
+	<path fill="url(#SVGID_2_)" d="M5.051,29.467c-6.734-6.732-6.734-17.688,0-24.419c6.732-6.731,17.685-6.731,24.418,0
+		c6.732,6.731,6.732,17.687,0,24.419C22.736,36.2,11.783,36.2,5.051,29.467 M26.799,7.718c-5.26-5.261-13.818-5.261-19.08,0
+		c-5.26,5.26-5.26,13.819,0,19.079c5.262,5.26,13.82,5.26,19.08,0C32.059,21.538,32.059,12.978,26.799,7.718"/>
+</g>
+</svg>

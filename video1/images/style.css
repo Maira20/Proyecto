@@ -1,0 +1,10 @@
+﻿body {
+	background-color: #9398a0;
+}
+
+@font-face {
+  font-family:'Blue Highway Condensed';
+  src: url('blue-highway-cd.ttf') format('truetype'), url('blue-highway-cd.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
